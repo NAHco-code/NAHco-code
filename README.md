@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi! I’m Kathryn - a full-stack web developer with technical skills in JavaScript & React and an affinity for front-end design. Currently engaged in a part-time teaching assistant role at Generation USA, as well as contract work creating homepages, branded content and product photos for professionals & small businesses.
+
+Experience accumulated in communication, leadership, client needs, and visual+audio content creation is attributed to a dynamic and unconventional history as a musician, art student, social worker, and high-volume bartender. Recent global events sparked a need for change, which then lead to my application, acceptance, and awarded scholarship to Ohio State University’s Full-stack Web Development Bootcamp and my pursuit to become a web developer. 
+
+Vivid imagination and idealism motivate my initiative to solve root problems by building + implementing constructive solutions, while prioritizing elegant design and an intuitive user experience. 
 
 <!--
 **NAHco-code/NAHco-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
