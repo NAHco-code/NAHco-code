@@ -29,9 +29,8 @@ Other skills accumulated in graphic design, adaptive communication, client needs
 And with my own projects, I've been focused on building human-centered products, and beautiful, responsive web experiences for them.
 
 >Check out my Portfolio [HERE](https://kathrynwilkinson.github.io/Portfolio/)
-
-- [Node](https://nodejs.org/en/)
-- [Express](https://expressjs.com/)
-- [React](https://reactjs.org/docs/getting-started.html)
-- [MongoDB](https://www.mongodb.com/)
-- [MySql](https://www.mysql.com/)
+>- [Node](https://nodejs.org/en/)
+>- [Express](https://expressjs.com/)
+>- [React](https://reactjs.org/docs/getting-started.html)
+>- [MongoDB](https://www.mongodb.com/)
+>- [MySql](https://www.mysql.com/)
