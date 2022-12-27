@@ -21,10 +21,10 @@ Other skills accumulated in graphic design, adaptive communication, client needs
 **Currently**, I'm employed as a *web development instructor* at [Generation USA](https://www.generation.org/) where I've also been coordinating the development, editing, and implementation of a reusable curriculum for the JWD and JFS Programs.
 
 >Take a look at some of the program repositories I've created and contributed to!
->- [JWD Master Class Repository]()
->- [JWD National Flex 04]()
->- [JWD National Flex 06]()
->- [Course Assets]()
+>- [JWD Master Class Repository](https://github.com/GenUSA-Learners/jwd-master-class-repo)
+>- [JWD National Flex 04](https://github.com/GenUSA-Learners/jwd-nat-flex-04)
+>- [JWD National Flex 06](https://github.com/GenUSA-Learners/jwd-nat-flex-06)
+>- [Career Assets](https://github.com/GenUSA-Learners/Career-Assets)
 
 And with my own projects, I've been focused on building human-centered products, and beautiful, responsive web experiences for them.
 
