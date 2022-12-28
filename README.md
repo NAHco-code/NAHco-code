@@ -16,15 +16,24 @@ Here are some ideas to get you started:
 
 My name is **Kathryn Wilkinson**. I'm a full-stack web developer with technical skills in *JavaScript* & *React*, and an affinity for *front-end development*. My interest in web development started at the beginning of 2020 when the pandemic emerged. I then completed a *MERN Stack* bootcamp with [Trilogy](https://en.wikipedia.org/wiki/Trilogy_Education_Services) - now [edX](https://www.edx.org/boot-camps/about) - in 2021.
 
-Other skills accumulated in graphic design, adaptive communication, client needs assessment, leadership, and creative problem solving, are attributed to my dynamic, unconventional history as a teacher, artist, musician, social worker, and high-volume bartender.
+Additionally, I've accumulated skills in graphic design, adaptive communication, client needs assessment, leadership, and creative problem solving. I gained these skills via my history as a teacher, artist, musician, social worker, and high-volume bartender.
 
-**Currently**, I'm employed as a *web development instructor* at [Generation USA](https://www.generation.org/) where I've also been coordinating the development, editing, and implementation of a reusable curriculum for the JWD and JFS Programs.
+**Currently**, I'm employed as a *web development instructor* at [Generation USA](https://www.generation.org/) where I've been teaching: 
 
->Take a look at some of the program repositories I've created and contributed to!
+>- git + GitHub
+>- HTML 
+>- CSS
+>- JS
+>- Node 
+>- Jest & Mocha
+
+I've also recently been coordinating the development, editing, and implementation of a reusable curriculum for the JWD and JFS Programs, including development of coding problems, projects, & solutions for program participants.
+
+<!-- >Take a look at some of the program repositories I've created and contributed to!
 >- [JWD Master Class Repository](https://github.com/GenUSA-Learners/jwd-master-class-repo)
 >- [JWD National Flex 04](https://github.com/GenUSA-Learners/jwd-nat-flex-04)
 >- [JWD National Flex 06](https://github.com/GenUSA-Learners/jwd-nat-flex-06)
->- [Career Assets](https://github.com/GenUSA-Learners/Career-Assets)
+>- [Career Assets](https://github.com/GenUSA-Learners/Career-Assets) -->
 
 And with my own projects, I've been focused on building human-centered products, and beautiful, responsive web experiences for them.
 
