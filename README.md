@@ -33,6 +33,7 @@ I've also recently been coordinating the development, editing, and implementatio
 
 My goals when working a project are to capture an aesthetic and develop a seamless user experience. I also have a passion for developing effective communication with both my team and individuals.
 
+Actively looking for a full-time developer role. 
 >Check out my Portfolio [HERE](https://kathrynwilkinson.github.io/Portfolio/)
 >- [Node](https://nodejs.org/en/)
 >- [Express](https://expressjs.com/)
