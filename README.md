@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hello 👋
 
-My name is **Kathryn Wilkinson**. I'm a MERN developer with an affinity for *front-end design*, skilled in *JavaScript* & *React*. My interest in web development started at the beginning of 2020 when the pandemic emerged. Completed a *Full Stack Web Development* bootcamp with [Trilogy](https://en.wikipedia.org/wiki/Trilogy_Education_Services) - now [edX](https://www.edx.org/boot-camps/about) - in 2021.
+My name is **Kathryn Wilkinson**. I'm a MERN developer with an affinity for *front-end design*, skilled in *JavaScript*,  *React*, and *custom CSS*. My interest in web development started at the beginning of 2020 when the pandemic emerged. Completed a *Full Stack Web Development* bootcamp with [Trilogy](https://en.wikipedia.org/wiki/Trilogy_Education_Services) - now [edX](https://www.edx.org/boot-camps/about) - in 2021.
 
 In addition to said technical skills, over the course of my career I've accumulated graphic design, adaptive communication, client needs assessment & business requirements, leadership, and creatice problem solving savvy via my background as a teacher, artist, musician, social worker, and high-volume bartender.
 
