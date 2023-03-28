@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 ### Hello 👋
 
-My name is **Kathryn Wilkinson**. I'm a full-stack web developer with an affinity for *front-end development*, skilled in *JavaScript* & *React*. My interest in web development started at the beginning of 2020 when the pandemic emerged. I then completed a *MERN Stack* bootcamp with [Trilogy](https://en.wikipedia.org/wiki/Trilogy_Education_Services) - now [edX](https://www.edx.org/boot-camps/about) - in 2021.
+My name is **Kathryn Wilkinson**. I'm a MERN developer with an affinity for *front-end design*, skilled in *JavaScript* & *React*. My interest in web development started at the beginning of 2020 when the pandemic emerged. Completed a *Full Stack Web Development* bootcamp with [Trilogy](https://en.wikipedia.org/wiki/Trilogy_Education_Services) - now [edX](https://www.edx.org/boot-camps/about) - in 2021.
 
-In addition to my technical skills, over the course of my career I've accumulated savvy in trouble shooting, creative problem solving, client needs assessment & business requirements, adaptive communication, leadership, and graphic design via my background as a musician artist, social worker, high-volume bartender, and teacher.
+In addition to said technical skills, over the course of my career I've accumulated graphic design, adaptive communication, client needs assessment & business requirements, leadership, and creatice problem solving savvy via my background as a teacher, artist, musician, social worker, and high-volume bartender.
 
 **Currently**, I'm employed as a *web development instructor* at [Generation USA](https://www.generation.org/) where I've been teaching: 
 
@@ -31,7 +31,7 @@ In addition to my technical skills, over the course of my career I've accumulate
 
 I've also recently been coordinating the development, editing, and implementation of a reusable curriculum for the JWD and JFS Programs, including the development of coding problems, projects, & solutions for program participants.
 
-And with my own projects, I've been focused on building human-centered products, and beautiful, responsive web experiences for them.
+My goals when working a project are to capture an aesthetic and develop a seamless user experience. I also have a passion for developing effective communication with both my team and individuals.
 
 >Check out my Portfolio [HERE](https://kathrynwilkinson.github.io/Portfolio/)
 >- [Node](https://nodejs.org/en/)
